@@ -1,0 +1,49 @@
+{
+    "nfInstanceId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "implicitUnsubscribe": true,
+    "expires": "2024-01-30T09:07:01.162Z",
+    "callbackReference": "string",
+    "monitoredResourceUris": [
+      "string"
+    ],
+    "singleNssai": {
+      "sst": 255,
+      "sd": "330B3f"
+    },
+    "dnn": "string",
+    "subscriptionId": "string",
+    "plmnId": {
+      "mcc": "326",
+      "mnc": "495"
+    },
+    "immediateReport": false,
+    "supportedFeatures": "a0fcB2fdF28Bbc215Bf6cfEC4966Bed1A28b4dAc253c6aE4b7dEBf0Eab5cFEC6fb6F4Ec718414c",
+    "contextInfo": {
+      "origHeaders": [
+        "string"
+      ],
+      "requestHeaders": [
+        "string"
+      ]
+    },
+    "nfChangeFilter": false,
+    "uniqueSubscription": true,
+    "resetIds": [
+      "string"
+    ],
+    "ueConSmfDataSubFilter": {
+      "dnnList": [
+        "string"
+      ],
+      "snssaiList": [
+        {
+          "sst": 255,
+          "sd": "5d6eFD"
+        }
+      ],
+      "emergencyInd": false
+    },
+
+    "dataRestorationCallbackUri": "string",
+    "udrRestartInd": false
+  }
